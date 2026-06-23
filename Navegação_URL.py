@@ -1,3 +1,7 @@
+# Desenvolvido pelos alunos do 3º TDS:
+# Arthur Gomes Amaral
+# José Pedro dos Santos
+
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox, simpledialog
 from textblob import TextBlob
