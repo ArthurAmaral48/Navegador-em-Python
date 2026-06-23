@@ -356,7 +356,7 @@ config_abas = {
     "Classes Gramaticais": ("Analisar Classes", executar_classes_gramaticais),
     "Sintagmas Nominais": ("Extrair Sintagmas", executar_sintagmas),
     "Sentimento": ("Analisar Sentimento", executar_sentimento),
-    "Flexão (Plural/Singular)": ("Modificar Número", executar_flexao),
+    "Flexão (Plural/Singular)": ("Modificar Palavra", executar_flexao),
     "Ortografia": ("Corrigir Texto", verificar_ortografia),
     "Normalização": ("Gerar Lematização", executar_normalizacao),
     "Frequência": ("Contar Frequência", executar_frequencia),
