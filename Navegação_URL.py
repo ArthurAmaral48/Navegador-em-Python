@@ -385,3 +385,4 @@ caixa_resultado = tk.Text(frame_resultado, font=("Courier New", 10), bd=1, relie
 caixa_resultado.pack(fill=tk.BOTH, expand=True)
 
 janela.mainloop()
+
